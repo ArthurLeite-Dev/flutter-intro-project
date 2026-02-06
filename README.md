@@ -15,3 +15,5 @@ An app made on my first flutter class. This project was developed to practice ba
 1.  Clone this repository.
 2.  Run `flutter pub get` in the terminal to install dependencies.
 3.  Press `F5` in VS Code to run the project.
+
+https://arthurleite-dev.github.io/flutter-intro-project/

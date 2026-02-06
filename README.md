@@ -1,12 +1,17 @@
-## Getting Started
+# My First Flutter App
 
-This project is a starting point for a Flutter application.
+An app made on my first flutter class. This project was developed to practice basic Flutter concepts, such as state management and asset handling.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
+* **Dynamic Greeting:** Changes the message on screen when the button is pressed.
+* **Image Toggle:** Switches between different Pokémon GIFs/Images alongside the text.
+* **Multi-platform:** Ready to run on Web, Android, iOS, and Desktop.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Technologies Used
+* **Flutter:** Framework for UI development.
+* **Dart:** Programming language.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to Run
+1.  Clone this repository.
+2.  Run `flutter pub get` in the terminal to install dependencies.
+3.  Press `F5` in VS Code to run the project.
